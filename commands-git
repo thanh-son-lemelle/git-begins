@@ -9,3 +9,5 @@ git push <remote> <branche>
 Pour pousser toutes les branches vers votre repo remote.
 
 git push –all <remote>
+
+git pull https://github.com/thanh-son-lemelle/git-begin.git
