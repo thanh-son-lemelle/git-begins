@@ -1,18 +1,21 @@
+commande pour cloner un repository :
 git clone https://github.com/thanh-son-lemelle/git-begin.git
 
 Pour push les changements sur master.
-
 git push <nom_du_remote> master
+
 Pour push les commits à votre dépôt distant sur de la branche spécifiée.
-
 git push <remote> <branche>
-Pour pousser toutes les branches vers votre repo remote.
 
+Pour pousser toutes les branches vers votre repo remote.
 git push –all <remote>
 
+commande qui permet de pull :
 git pull
 
+commande pour créer une nouvelle branche :
 git branch add-create-branch-command
 
+Commande pour basculer sur la branche " add-create-branch-command" :
 git checkout add-create-branch-command
 
