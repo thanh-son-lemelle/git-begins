@@ -11,3 +11,8 @@ Pour pousser toutes les branches vers votre repo remote.
 git push –all <remote>
 
 git pull
+
+git branch add-create-branch-command
+
+git checkout add-create-branch-command
+
